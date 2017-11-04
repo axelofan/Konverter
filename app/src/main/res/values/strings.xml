@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Конвертер</string>
+    <string-array name="grad">
+        <item>Кельвин</item>
+        <item>Ранкин</item>
+        <item>Реамюр</item>
+        <item>Фаренгейт</item>
+        <item>Цельсий</item>
+    </string-array>
+
+    <string-array name="mass">
+        <item>Миллиграмм</item>
+        <item>Карат</item>
+        <item>Грамм</item>
+        <item>Килограмм</item>
+        <item>Центнер</item>
+        <item>Тонна</item>
+        <item>Русский фунт</item>
+    </string-array>
+
+    <string-array name="info">
+        <item>Бит</item>
+        <item>Байт</item>
+        <item>Килобайт</item>
+        <item>Мегабайт</item>
+        <item>Гигабайт</item>
+        <item>Терабайт</item>
+        <!--<item>Петабайт</item>
+        <item>Эксабайт</item>
+        <item>Зеттабайт</item>
+        <item>Йоттабайт</item>-->
+    </string-array>
+
+    <string-array name="area">
+        <item>Квадратный миллиметр</item>
+        <item>Квадратный сантиметр</item>
+        <item>Квадратный дециметр</item>
+        <item>Квадратный метр</item>
+        <item>Ар (сотка)</item>
+        <item>Квадратный километр</item>
+        <item>Гектар</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>Наносекунда</item>
+        <item>Микросекунда</item>
+        <item>Миллисекунда</item>
+        <item>Секунда</item>
+        <item>Минута</item>
+        <item>Час</item>
+        <item>Сутки</item>
+        <item>Неделя</item>
+        <item>Год</item>
+        <item>Век</item>
+        <item>Тысячелетие</item>
+    </string-array>
+
+    <string-array name="pressure">
+        <item>Миллибар</item>
+        <item>Бар</item>
+        <item>Паскаль (Pa, Па)</item>
+        <item>Килопаскаль (kPa, кПа)</item>
+        <item>Гектопаскаль (hPa, гПа)</item>
+        <item>Мегапаскаль (MPa, МПа)</item>
+        <item>Килограмм силы на квадратный сантиметр (kgf/cm2)</item>
+        <item>Килограмм силы на квадратный метр (kgf/m2)</item>
+        <!--<item>Ньютон на квадратный метр (N/m2)</item>
+        <item>Килоньютон на квадратный метр (kN/m2)</item>
+        <item>Меганьютон на квадратный метр (MN/m2)</item>
+        <item>Ньютон на квадратный сантиметр (N/cm2)</item>
+        <item>Ньютон на квадратный миллиметр (N/mm2)</item>-->
+    </string-array>
+
+    <string-array name="length">
+        <item>Ангстрем</item>
+        <item>Миллиметр</item>
+        <item>Сантиметр</item>
+        <item>Дециметр</item>
+        <item>Метр</item>
+        <item>Километр</item>
+        <item>Дюйм</item>
+        <item>Фут</item>
+        <item>Кабельтов</item>
+        <item>Миля</item>
+        <item>Морская миля</item>
+        <item>Лье</item>
+    </string-array>
+
+</resources>
